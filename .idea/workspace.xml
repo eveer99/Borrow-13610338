@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d638053b-ff3c-4acd-90cf-bb69fd1efb61" name="Default Changelist" comment="" />
+    <list default="true" id="d638053b-ff3c-4acd-90cf-bb69fd1efb61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backoffice/item-show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backoffice/item-show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/cart.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/cart.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +14,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -127,6 +134,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1otiYA7iCdyIA3LZLoGcITtqcsY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -172,6 +180,9 @@
       <workItem from="1615487732899" duration="1520000" />
       <workItem from="1615516484734" duration="18344000" />
       <workItem from="1616122389483" duration="22615000" />
+      <workItem from="1617278515992" duration="3981000" />
+      <workItem from="1617328022482" duration="6986000" />
+      <workItem from="1618148274086" duration="1256000" />
     </task>
     <servers />
   </component>

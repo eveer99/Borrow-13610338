@@ -24,7 +24,7 @@
 {{--                                    <div style="background-color: black; width:100px; height:100px; border-radius: 20px;" ></div>--}}
 
 {{--                                    <br>--}}
-                                    
+
 {{--                                    style class อยู่ที่ หน้า head หลัก ของ backoffice--}}
 
                                     <div class="image-item" :style="{backgroundImage: 'url(/uploads/'+old_image+')'}">
@@ -32,13 +32,13 @@
 
                                     <br>
 
-                                    <div :style="{backgroundImage: 'url(/uploads/'+old_image+')',
-                                                  backgroundSize:'cover',
-                                                  width:'100px',
-                                                  height:'100px',
-                                                  borderRadius: '50px'
-                                                  }">
-                                    </div>
+{{--                                    <div :style="{backgroundImage: 'url(/uploads/'+old_image+')',--}}
+{{--                                                  backgroundSize:'cover',--}}
+{{--                                                  width:'100px',--}}
+{{--                                                  height:'100px',--}}
+{{--                                                  borderRadius: '50px'--}}
+{{--                                                  }">--}}
+{{--                                    </div>--}}
 
                                     <br>
 

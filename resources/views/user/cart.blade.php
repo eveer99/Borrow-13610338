@@ -21,7 +21,7 @@
                             @foreach ($carts as $cart)
                             <tr>
                                 <td width="150">
-                                    <img class="img-fluid" src="{{ url('/uploads/'.$cart->item->image) }}">
+                                    <img class="d-block" src="{{ url('/uploads/'.$cart->item->image) }}">
                                 </td>
                                 <td class="align-middle">{{ $cart->item->id }}</td>
                                 <td class="align-middle">{{ $cart->item->title }}</td>
